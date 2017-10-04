@@ -5,6 +5,7 @@ body{
 .top{
   background-image: url("file://C:/Users/USER/PC/Projects/Broadway/resources/image/the-flatiron-building.png");
   color: white;
+  font-size: 18px;
 }
 h1{
   font-size: 70px;
@@ -14,4 +15,27 @@ h1{
 h3{
   font-size: 32px;
   font-weight: bold;
+}
+#process{
+  font-size: 32px;
+}
+h4{
+  font-size: 23px;
+}
+.middle{
+  background-image: url("file://C:/Users/USER/PC/Projects/Broadway/resources/image/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+}
+.footer{
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+  font-size: 11px;
+}
+a{
+  text-decoration: none;
+  color: white;
+  text-decoration: underline;
+  font-size: 18px;
 }
